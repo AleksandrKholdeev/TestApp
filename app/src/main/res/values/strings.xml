@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="category_stories">Stories</string>
+    <string name="category_video">Video</string>
+    <string name="category_favourites">Favourites</string>
+
+    <string name="search">Search</string>
+</resources>
